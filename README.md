@@ -1,0 +1,1 @@
+Java esque hashtable implementation in C. Works for C style strings and tested using Xcode. The hash function is pretty simple and may fail for long strings (mainly because hashcode may get out of size) , however handling this scenario can be done trivially.  
